@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Moch Rafi</string>
+    <string-array name="album">
+        <item>The Adams</item>
+        <item>Sneakerfuzz</item>
+        <item>Morfem</item>
+        <item>V2.05</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 70.000</item>
+        <item>Rp. 70.000</item>
+        <item>Rp. 85.000</item>
+        <item>Rp. 85.000</item>
+    </string-array>
+
+</resources>
